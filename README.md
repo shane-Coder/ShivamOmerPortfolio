@@ -1,6 +1,6 @@
 ![thumbnail](https://raw.githubusercontent.com/shane-Coder/ShivamOmerPortfolio/main/public/images/portfolioLocal.png)
 
-### Live - https://react-portfolio-template.netlify.app/
+### Live - https://shivamomerportfolio.netlify.app/
 
 ### Features - 
 
@@ -8,7 +8,7 @@
 - Minimal Design
 - Easy To Browse
 - Easy To Customize your details With GUI
-- Blog Crud (Create, Read, Update, Delete blog with easy to use UI).
+- Blog Crud (Create, Read, Update, Delete blog with easy-to-use UI).
 - Dark Mode
 
 
@@ -32,19 +32,19 @@
 ### How To Deploy - 
 
 - There are many ways to Deploy this repo.
-- here we are gonna use netlify
-- Login into netlify with github
+- here we are gonna use Netlify
+- Login into Netlify with GitHub
 - after login select the forked repo or the repo you want to deploy
-- after selecting netlify will automatially deploy your website.
+- after selecting Netlify will automatically deploy your website.
 
-Quickes way to deploy this repo - 
+The quickest way to deploy this repo - 
 
 [![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/shane-Coder/ShivamOmerPortfolio)
 
 
 ### How To Contribute - 
 
-I would be very happy to review your PRs and all the awesome things that you can improve on this portfolio.
+I would be very happy to review your PRs and see what awesome things you can improve on this portfolio.
 
 
 ### Tech Stack Used - 
@@ -59,8 +59,7 @@ If you liked this portfolio template, don't forget to give it a ⭐.
 ## Supporting
 Many hours of hard work have gone into this project. Your support will be very appreciated!
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/shivamrajow
-)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/shivamrajow)
 
 
 
